@@ -1,0 +1,69 @@
+,distance,scaled_dist,test_word,best_word
+0,0,0.0,app_name,app_name
+1,20,0.5405405405405406,status_bar_notification_info_overflow,usenotificationinstall
+2,3,0.3,Share with,shareit
+3,17,0.21518987341772153,%1$s wont run without Google Play services which are missing from your tablet.," won ' t run without google play services ,  which are missing from your device"
+4,5,0.4166666666666667,Clear query,clearhistory
+5,6,0.46153846153846156,Open on phone,getclonephone
+6,3,0.42857142857142855,Searchâ,seareq
+7,0,0.0,Update,update
+8,3,0.42857142857142855,Sign in,sign=
+9,1,0.3333333333333333,OFF,fff
+10,6,0.23076923076923078,Google Play services error,google play services
+11,6,0.46153846153846156,Share with %s,shareit
+12,1,0.3333333333333333,ON,mon
+13,8,0.6153846153846154,Navigate home,devicename
+14,6,0.46153846153846156,Choose an app,close . bmp
+15,6,0.5,Scan Barcode,sendcode
+16,16,0.20253164556962025,%1$s wont run without Google Play services which are missing from your phone.," won ' t run without google play services ,  which are missing from your device"
+17,0,0.0,Google Play services,google play services
+18,1,0.1,SEND EMAIL,send gmail
+19,1,0.08333333333333333,take_picture,takepicture
+20,1,0.1,send_email,sendemail
+21,6,0.5,scan_barcode,sendcode
+22,3,0.42857142857142855,Enable,example
+23,0,0.0,content,content
+24,6,0.5,Submit query,submit_error
+25,11,0.5789473684210527,Sign in with Google,hey . google
+26,2,0.5,body,boo
+27,4,0.36363636363636365,open_camera,setcamera
+28,1,0.08333333333333333,Take Picture,takepicture
+29,10,0.5882352941176471,sans-serif-medium,tasksericode
+30,26,0.49056603773584906,%1$s wont run unless you update Google Play services.,update google play services
+31,30,0.5555555555555556,%1$s wont work unless you enable Google Play services.,update google play services
+32,8,0.34782608695652173,Create calendar event,create_calendar_message
+33,9,0.6,Troubleshooting,progbar_noti
+34,2,0.5,999+,-999
+35,6,0.5454545454545454,Navigate up,apknameup
+36,67,0.6767676767676768,By installing and using this service you are deemed to have accepted the terms of use of our below:,it is the service to vertify the system accessibility
+37,5,0.4166666666666667,Search query,search_text
+38,8,0.36363636363636365,%1$s %2$s %3$s,%1$s  ( %2$s ) ï¼š%3$s
+39,25,0.5813953488372093,Allow Ad to store image in Picture gallery?,allow ad to store 
+40,2,0.3333333333333333,Search,seareq
+41,10,0.625,sans-serif-light,answercall
+42,0,0.0,Install,install
+43,7,0.4375,Creative Preview,createfloatview
+44,1,0.25,Done,none
+45,66,0.5739130434782609,%1$s relies on Google Play services which is not supported by your device. Contact the manufacturer for assistance.,this version of the game is not supported on your device .  you must install a different version ! 
+46,3,0.42857142857142855,Decline,decode
+47,0,0.0,Update Google Play services,update google play services
+48,2,0.25,Accept,i_accept
+49,5,0.4166666666666667,Voice search,wifisearch
+50,73,0.6186440677966102,%1$s is having trouble with Google Play services. If the problem persists please contact the developer for assistance.," won ' t run without google play services ,  which are missing from your device"
+51,3,0.42857142857142855,See all,shell
+52,4,0.16666666666666666,Get Google Play services,google play services
+53,8,0.47058823529411764,search_menu_title,search_text
+54,11,0.5789473684210527,Select a Debug Mode,silent_mode
+55,4,0.25,Ad Information,a=smsinformation
+56,5,0.18518518518518517,Enable Google Play services,update google play services
+57,30,0.379746835443038,%1$s wont run without Google Play services which are currently updating.," won ' t run without google play services ,  which are missing from your device"
+58,13,0.3939393939393939,Google Play services are updating,google play services
+59,3,0.375,Collapse,coolapp
+60,5,0.35714285714285715,QRCode Scanner,freescanner
+61,21,0.5833333333333334,Allow Ad to create a calendar event?,allow ad to store 
+62,4,0.36363636363636365,OPEN CAMERA,setcamera
+63,6,0.6666666666666666,%1$s %2$s,%1$t
+64,6,0.5,More options,conection
+65,3,0.3,Save image,savetime
+66,6,0.6,sans-serif,smssend
+67,46,0.6216216216216216,New version of Google Play services needed. It will update itself shortly.,"a new version can be used ,  please update immediately . "
